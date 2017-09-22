@@ -1,0 +1,44 @@
+body {
+    background-color: #005cf2;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'sans-serif'; cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+a{
+  color: #ffffff;
+}
+
+li {
+   list-style:square;
+   list-style-type: upper-roman;
+   list-style-type:circle;
+   list-style-type:circle;
+   list-style-type: lower-alpha;
+   color: #ffffff;
+}
+
+
+
+h2 {
+    color: #ffffff;
+    font-family: 'sans-serif'; cursive;
+    font-size: 50px;
+    text-align: left;
+}
+
+p  {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+img {
+    max-width:100%
+    display: block;
+    margin: 0 auto;
+}
